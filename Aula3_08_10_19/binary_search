@@ -1,0 +1,27 @@
+# Binary_Search
+def find_x(array, left, right, x):
+    if left == right:
+        if x == array[left]:
+            return left
+        else:
+            return -1
+
+    mid = (left + right)//2
+
+    if array[mid] == x:
+        return mid
+    elif x < array[mid]:
+        return find_x(array, left, mid, x)
+    else:
+        return find_x(array, mid+1, right, x)
+
+# Test
+a = list()
+n = 10
+for i in range(n):
+    a.append(i)
+
+x = find_x(a, 0, n, 6)
+print(x)
+print(a)
+
