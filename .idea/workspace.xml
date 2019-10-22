@@ -44,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Fibonacci">
+  <component name="RunManager" selected="Python.Quick_Sort">
     <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAA-2019.2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,6 +89,47 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Quick_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAA-2019.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula5_15_10_19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\tarci\Documents\UFAL\8º Período\PAA\PAA-2019.2\Aula5_15_10_19\Quick_Sort_v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PAA-2019.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAA-2019.2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +154,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Quick_Sort" />
         <item itemvalue="Python.Fibonacci" />
         <item itemvalue="Python.Powering" />
         <item itemvalue="Python.binary_search" />
@@ -130,7 +172,9 @@
       <option name="presentableId" value="Default" />
       <updated>1569590854005</updated>
       <workItem from="1570921997632" duration="1276000" />
-      <workItem from="1570975989910" duration="1925000" />
+      <workItem from="1570975989910" duration="2136000" />
+      <workItem from="1571147965172" duration="122000" />
+      <workItem from="1571744589373" duration="852000" />
     </task>
     <servers />
   </component>
@@ -163,6 +207,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PAA_2019_2$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1570977915500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula4_11_10_19" />
+    <SUITE FILE_PATH="coverage/PAA_2019_2$Quick_Sort.coverage" NAME="Quick_Sort Coverage Results" MODIFIED="1571745568285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula5_15_10_19" />
     <SUITE FILE_PATH="coverage/PAA_2019_2$Powering.coverage" NAME="Powering Coverage Results" MODIFIED="1570922433071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula4_11_10_19" />
   </component>
 </project>
