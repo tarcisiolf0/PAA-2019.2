@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf7305d-ac7b-4600-92d7-19d137e1c309" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -9,6 +10,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Quick_Sort">
+  <component name="RunManager" selected="Python.Viagem para marte">
     <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAA-2019.2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,32 +82,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Powering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Quick_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAA-2019.2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula4_11_10_19" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula4_11_10_19/Powering.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Quick_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAA-2019.2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula5_15_10_19" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -108,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="Quick_Sort_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAA-2019.2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,12 +112,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula5_15_10_19" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula5_15_10_19/Quick_Sort_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Sr. Indeciso e o evento" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAA-2019.2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,12 +134,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula3_08_10_19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Questionário_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula3_08_10_19/binary_search" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questionário_1/Sr. Indeciso e o evento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Viagem para marte" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAA-2019.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Questionário_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questionário_1/Viagem para marte.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,10 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Viagem para marte" />
+        <item itemvalue="Python.Sr. Indeciso e o evento" />
+        <item itemvalue="Python.Quick_Sort_v2" />
         <item itemvalue="Python.Quick_Sort" />
         <item itemvalue="Python.Fibonacci" />
-        <item itemvalue="Python.Powering" />
-        <item itemvalue="Python.binary_search" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +193,12 @@
       <workItem from="1570921997632" duration="1276000" />
       <workItem from="1570975989910" duration="2136000" />
       <workItem from="1571147965172" duration="122000" />
-      <workItem from="1571744589373" duration="852000" />
+      <workItem from="1571744589373" duration="1413000" />
+      <workItem from="1571957840374" duration="54000" />
+      <workItem from="1572608646031" duration="2989000" />
+      <workItem from="1572611722807" duration="4527000" />
+      <workItem from="1572694228449" duration="20021000" />
+      <workItem from="1572802913986" duration="4964000" />
     </task>
     <servers />
   </component>
@@ -209,5 +233,7 @@
     <SUITE FILE_PATH="coverage/PAA_2019_2$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1570977915500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula4_11_10_19" />
     <SUITE FILE_PATH="coverage/PAA_2019_2$Quick_Sort.coverage" NAME="Quick_Sort Coverage Results" MODIFIED="1571745568285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula5_15_10_19" />
     <SUITE FILE_PATH="coverage/PAA_2019_2$Powering.coverage" NAME="Powering Coverage Results" MODIFIED="1570922433071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula4_11_10_19" />
+    <SUITE FILE_PATH="coverage/PAA_2019_2$Sr__Indeciso_e_o_evento.coverage" NAME="Sr. Indeciso e o evento Coverage Results" MODIFIED="1572612123174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Questionário_1" />
+    <SUITE FILE_PATH="coverage/PAA_2019_2$Viagem_para_marte.coverage" NAME="Viagem para marte Coverage Results" MODIFIED="1572731993393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Questionário_1" />
   </component>
 </project>
