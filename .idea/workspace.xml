@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bbf7305d-ac7b-4600-92d7-19d137e1c309" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questionario_1/Sr._Indeciso_e_o_evento.py" beforeDir="false" afterPath="$PROJECT_DIR$/Questionario_1/Sr._Indeciso_e_o_evento.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +117,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questionario_1/Sr Indeciso e o evento 2.py" />
+      <option name="SCRIPT_NAME" value="D:\tarci\Documents\UFAL\8º Período\PAA\PAA-2019.2\Questionario_1\Sr_Indeciso_e_o_evento_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,6 +201,8 @@
       <workItem from="1572802913986" duration="9210000" />
       <workItem from="1572954934899" duration="1319000" />
       <workItem from="1572956703183" duration="23000" />
+      <workItem from="1572968940653" duration="558000" />
+      <workItem from="1572977941349" duration="258000" />
     </task>
     <servers />
   </component>

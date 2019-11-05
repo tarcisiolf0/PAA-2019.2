@@ -21,12 +21,14 @@ def find_x(array, left, right, x):
         if mid <= lowest_left:
             lowest_left = mid
             if array[mid - 1] == x:
+                lowest_left = mid - 1
                 find_x(array, left, mid, x)
 
         # Ao achar o numero desejado, verifica se encontra um indice maior
         if mid >= larger_right:
             larger_right = mid
             if array[mid + 1] == x:
+                larger_right = mid + 1
                 find_x(array, mid + 1, right, x)
         # Até aqui
 
