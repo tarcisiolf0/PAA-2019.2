@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbf7305d-ac7b-4600-92d7-19d137e1c309" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula8_25_10_19/Dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula8_25_10_19/Dijkstra.py" afterDir="false" />
-    </list>
+    <list default="true" id="bbf7305d-ac7b-4600-92d7-19d137e1c309" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +203,7 @@
       <workItem from="1573084870083" duration="2581000" />
       <workItem from="1573089864771" duration="1701000" />
       <workItem from="1573137445921" duration="2957000" />
-      <workItem from="1573160933429" duration="1336000" />
+      <workItem from="1573160933429" duration="1852000" />
     </task>
     <servers />
   </component>

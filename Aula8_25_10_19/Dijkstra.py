@@ -24,7 +24,7 @@ def dijsktra(graph, source):
         distance.append(10 ** 5)
         visited.append(0)
 
-    distance[1] = 0
+    distance[source] = 0
     q = PriorityQueue()
     q.put([distance[source], source])
 
