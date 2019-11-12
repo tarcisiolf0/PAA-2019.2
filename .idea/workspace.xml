@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbf7305d-ac7b-4600-92d7-19d137e1c309" name="Default Changelist" comment="" />
+    <list default="true" id="bbf7305d-ac7b-4600-92d7-19d137e1c309" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questionario_1/Sr_Indeciso_e_o_evento_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Questionario_1/Sr_Indeciso_e_o_evento_2.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sr Indeciso e o evento 2">
+  <component name="RunManager" selected="Python.A_entidade_e_o_boneco">
+    <configuration name="A_entidade_e_o_boneco" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAA-2019.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Questionario_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questionario_1/A_entidade_e_o_boneco.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAA-2019.2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,28 +148,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sr. Indeciso e o evento" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAA-2019.2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Questionário_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Questionário_1/Sr. Indeciso e o evento.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Viagem para marte" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAA-2019.2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.A_entidade_e_o_boneco" />
         <item itemvalue="Python.Sr Indeciso e o evento 2" />
         <item itemvalue="Python.Flood_Fill" />
         <item itemvalue="Python.BFS" />
         <item itemvalue="Python.Viagem para marte" />
-        <item itemvalue="Python.Sr. Indeciso e o evento" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +206,12 @@
       <workItem from="1573084870083" duration="2581000" />
       <workItem from="1573089864771" duration="1701000" />
       <workItem from="1573137445921" duration="2957000" />
-      <workItem from="1573160933429" duration="1852000" />
+      <workItem from="1573160933429" duration="2982000" />
+      <workItem from="1573400621699" duration="1202000" />
+      <workItem from="1573422461785" duration="9780000" />
+      <workItem from="1573480277936" duration="1530000" />
+      <workItem from="1573504144327" duration="188000" />
+      <workItem from="1573550204028" duration="216000" />
     </task>
     <servers />
   </component>
@@ -238,6 +246,7 @@
     <SUITE FILE_PATH="coverage/PAA_2019_2$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1570977915500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula4_11_10_19" />
     <SUITE FILE_PATH="coverage/PAA_2019_2$Quick_Sort.coverage" NAME="Quick_Sort Coverage Results" MODIFIED="1571745568285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula5_15_10_19" />
     <SUITE FILE_PATH="coverage/PAA_2019_2$Flood_Fill.coverage" NAME="Flood_Fill Coverage Results" MODIFIED="1572817544311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula7_22_10_19" />
+    <SUITE FILE_PATH="coverage/PAA_2019_2$A_entidade_e_o_boneco.coverage" NAME="A_entidade_e_o_boneco Coverage Results" MODIFIED="1573481094472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Questionario_1" />
     <SUITE FILE_PATH="coverage/PAA_2019_2$Powering.coverage" NAME="Powering Coverage Results" MODIFIED="1570922433071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula4_11_10_19" />
     <SUITE FILE_PATH="coverage/PAA_2019_2$Sr__Indeciso_e_o_evento.coverage" NAME="Sr. Indeciso e o evento Coverage Results" MODIFIED="1572612123174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Questionário_1" />
     <SUITE FILE_PATH="coverage/PAA_2019_2$Sr_Indeciso_e_o_evento_2.coverage" NAME="Sr Indeciso e o evento 2 Coverage Results" MODIFIED="1573140409553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Questionario_1" />
